@@ -1,0 +1,17 @@
+# SocialNetwork_MusicRemake
+한국음원저작권협회에 등록된 리메이크곡을 통한 가수/음원간 사회연결망 분석
+![image](https://user-images.githubusercontent.com/25517592/102322366-4cd27b80-3fc2-11eb-87ab-af7a5ed143a0.png)
+![image](https://user-images.githubusercontent.com/25517592/102322374-51972f80-3fc2-11eb-9a58-fb6adc204579.png)
+![image](https://user-images.githubusercontent.com/25517592/102322391-578d1080-3fc2-11eb-833d-b9cfee87bafe.png)
+![image](https://user-images.githubusercontent.com/25517592/102322408-5eb41e80-3fc2-11eb-9aac-de0a861415ea.png)
+![image](https://user-images.githubusercontent.com/25517592/102322423-64a9ff80-3fc2-11eb-9513-4c03b3aded6b.png)
+![image](https://user-images.githubusercontent.com/25517592/102322437-6a074a00-3fc2-11eb-8ecd-d85eb4fe38aa.png)
+![image](https://user-images.githubusercontent.com/25517592/102322452-6f649480-3fc2-11eb-8974-ebb13b92101c.png)
+![image](https://user-images.githubusercontent.com/25517592/102322462-74294880-3fc2-11eb-8f59-8aec9a69c7c6.png)
+![image](https://user-images.githubusercontent.com/25517592/102322478-7a1f2980-3fc2-11eb-8a56-6ee3e1cfe8af.png)
+![image](https://user-images.githubusercontent.com/25517592/102322488-80150a80-3fc2-11eb-905f-562bb9c44bcb.png)
+![image](https://user-images.githubusercontent.com/25517592/102322499-84d9be80-3fc2-11eb-9b7c-e21218649965.png)
+![image](https://user-images.githubusercontent.com/25517592/102322514-8a370900-3fc2-11eb-93ce-94585567b2bf.png)
+![image](https://user-images.githubusercontent.com/25517592/102322529-8efbbd00-3fc2-11eb-9745-fb99ef8c164c.png)
+![image](https://user-images.githubusercontent.com/25517592/102322545-93c07100-3fc2-11eb-9d37-0956e09d56c9.png)
+![image](https://user-images.githubusercontent.com/25517592/102322567-97ec8e80-3fc2-11eb-9741-f55525992f84.png)
