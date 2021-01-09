@@ -1,5 +1,5 @@
 # SocialNetwork_MusicRemake
-한국음원저작권협회에 등록된 리메이크곡을 통한 가수/음원간 사회연결망 분석
+한국음원저작권협회에 등록된 원곡/리메이크곡의 데이터 분석을 통한 가수/음원간 사회연결망 분석
 ![image](https://user-images.githubusercontent.com/25517592/102322366-4cd27b80-3fc2-11eb-87ab-af7a5ed143a0.png)
 ![image](https://user-images.githubusercontent.com/25517592/102322374-51972f80-3fc2-11eb-9a58-fb6adc204579.png)
 ![image](https://user-images.githubusercontent.com/25517592/102322391-578d1080-3fc2-11eb-833d-b9cfee87bafe.png)
